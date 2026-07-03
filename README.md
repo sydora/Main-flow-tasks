@@ -1,9 +1,3 @@
-# 🚀 Main Flow Data Science & Data Analytics Internship Tasks
-
-## 📖 Overview
-
-This repository contains the tasks and projects completed during my internship at Main Flow Services and Technologies Pvt. Ltd. under the Data Science & Data Analytics (DSDA) program.
-
 The internship focused on developing practical skills in:
 
 - Data Analysis
