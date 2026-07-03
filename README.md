@@ -1,30 +1,22 @@
-# 📊 Main Flow Data Science & Machine Learning Internship Tasks
+# 🚀 Main Flow Data Science & Data Analytics Internship Tasks
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+## 📖 Overview
 
-## 🚀 Overview
+This repository contains the tasks and projects completed during my internship at Main Flow Services and Technologies Pvt. Ltd. under the Data Science & Data Analytics (DSDA) program.
 
-This repository contains the tasks completed during my **Data Analysis with Python Internship** at **Main Flow Services and Technologies Pvt. Ltd.**
+The internship focused on developing practical skills in:
 
-The internship focused on:
-
+- Data Analysis
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Machine Learning
-- Time Series Forecasting
-- Clustering Techniques
-- Regression Models
 - Data Visualization
+- Machine Learning
 - Predictive Analytics
+- Time Series Forecasting
+- Statistical Modeling
 
 ---
 
-## 🏆 Internship Details
+## 🏢 Internship Details
 
 **Organization:** Main Flow Services and Technologies Pvt. Ltd.
 
@@ -36,199 +28,146 @@ The internship focused on:
 
 ---
 
-# 📂 Repository Contents
+## 🛠 Technologies Used
 
-## Task 01 – Student Performance Analysis
-
-### Objective
-Predict student performance based on:
-
-- Study Hours
-- Attendance Percentage
-
-### Concepts Used
-
-- Data Analysis
-- Classification
-- Data Visualization
-- Feature Engineering
+### Programming Language
+- Python
 
 ### Libraries
-
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-
----
-
-## Task 02 – Sales Forecasting using ARIMA
-
-### Objective
-
-Forecast future sales trends using Time Series Analysis.
-
-### Concepts Used
-
-- ARIMA Model
-- Time Series Forecasting
-- Trend Analysis
-- Seasonal Pattern Detection
-
-### Libraries
-
-- Pandas
-- NumPy
 - Statsmodels
-- Matplotlib
+
+### Development Environment
+- Jupyter Notebook
+- Anaconda
 
 ---
 
-## Task 03 – Customer Segmentation using K-Means Clustering
+# 📂 Tasks Completed
+
+## Task 01 — Student Performance Analysis
 
 ### Objective
-
-Cluster data into meaningful groups using unsupervised learning.
+Analyze student academic performance and identify factors influencing success.
 
 ### Concepts Used
-
-- K-Means Clustering
-- PCA
+- Data Cleaning
 - Data Visualization
-- Unsupervised Machine Learning
-
-### Libraries
-
-- Scikit-Learn
-- Pandas
-- Matplotlib
-- Seaborn
+- Exploratory Data Analysis
+- Feature Analysis
 
 ---
 
-## Task 04 – House Price Prediction
+## Task 02 — Sales Analysis & Forecasting
 
 ### Objective
-
-Predict house prices based on various property features.
+Perform sales analysis and predict future sales trends.
 
 ### Concepts Used
+- Time Series Analysis
+- Trend Identification
+- Forecasting Models
+- ARIMA
 
+---
+
+## Task 03 — Customer Segmentation using K-Means Clustering
+
+### Objective
+Group customers into meaningful clusters for business insights.
+
+### Concepts Used
+- Unsupervised Learning
+- K-Means Clustering
+- PCA Visualization
+- Data Scaling
+
+---
+
+## Task 04 — House Price Prediction
+
+### Objective
+Predict house prices based on multiple features.
+
+### Concepts Used
 - Linear Regression
 - Data Preprocessing
-- Feature Transformation
+- Feature Engineering
 - Model Evaluation
 
-### Libraries
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-
 ---
 
-## Task 05 – Global Superstore Data Analysis
+## Task 05 — Student Pass/Fail Prediction
 
 ### Objective
-
-Perform comprehensive data analysis on retail business data.
+Build a machine learning model to predict student performance.
 
 ### Concepts Used
-
-- Data Cleaning
-- Missing Value Handling
-- Exploratory Data Analysis
-- Business Insights Generation
-
-### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Classification Algorithms
+- Feature Selection
+- Model Training
+- Performance Evaluation
 
 ---
 
-## Task 06 – Advanced Sales Forecasting
+## Task 06 — Sales Forecasting using ARIMA
 
 ### Objective
-
-Generate future sales predictions using historical sales records.
+Forecast future sales trends using statistical time series techniques.
 
 ### Concepts Used
-
-- Time Series Analysis
-- Forecasting Models
-- Error Evaluation Metrics
-- Trend Detection
-
-### Libraries
-
-- Pandas
-- NumPy
-- ARIMA
-- Scikit-Learn
+- ARIMA Model
+- Time Series Forecasting
+- Error Metrics
+- Trend Analysis
 
 ---
 
-# 🛠 Technologies Used
+# 📊 Skills Demonstrated
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Statsmodels
+✅ Data Cleaning
 
----
+✅ Data Visualization
 
-# 📈 Skills Demonstrated
+✅ Statistical Analysis
 
-✔ Data Cleaning
+✅ Machine Learning
 
-✔ Data Visualization
+✅ Regression Modeling
 
-✔ Exploratory Data Analysis
+✅ Clustering
 
-✔ Machine Learning
+✅ Time Series Forecasting
 
-✔ Predictive Modeling
+✅ Predictive Analytics
 
-✔ Time Series Forecasting
-
-✔ Clustering
-
-✔ Regression Analysis
-
-✔ Business Analytics
-
-✔ Feature Engineering
+✅ Business Insights Generation
 
 ---
 
-# 📸 Sample Outputs
+# 📈 Learning Outcomes
 
-- Forecasting Graphs
-- Cluster Visualizations
-- Correlation Analysis
-- Regression Predictions
-- Performance Metrics
+Through this internship, I gained hands-on experience in:
+
+- Real-world Data Analytics workflows
+- Machine Learning model development
+- Data-driven decision making
+- Python-based analytics solutions
+- Business intelligence techniques
 
 ---
 
-# 🎯 Learning Outcomes
+# 🎯 Future Enhancements
 
-Through this internship, I gained practical experience in:
-
-- Real-world data preprocessing
-- Building machine learning models
-- Forecasting future trends
-- Visualizing business insights
-- Applying statistical techniques to solve problems
+- Deep Learning Models
+- Advanced Forecasting Techniques
+- Dashboard Development
+- Deployment using Flask
+- Real-Time Data Analytics
 
 ---
 
@@ -236,16 +175,16 @@ Through this internship, I gained practical experience in:
 
 ### Sri Yenumula Dora
 
-B.Tech Artificial Intelligence Student
+AI Engineer | Data Science Enthusiast | Machine Learning Learner
 
-Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
+🔗 GitHub: https://github.com/sydora
 
-### Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/sri-yenumula-dora-292655306/
 
-- LinkedIn: www.linkedin.com/in/sri-yenumula-dora
-- GitHub: https://github.com
-- Email: sriyenumuladora2580@gmail.com
+🔗 LeetCode: https://leetcode.com/u/sriyenumulaDora2580/
+
+🔗 CodeChef: https://www.codechef.com/users/sydora1210
 
 ---
 
-⭐ If you found this repository useful, please give it a star.
+⭐ If you found this repository useful, consider giving it a star.
